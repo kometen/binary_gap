@@ -53,7 +53,7 @@ int solution(int N) {
 int main() {
     int gap = 0;
 //    cout << "int max-size: " << numeric_limits<int>::max() << endl;
-    gap = solution(15);
+    gap = solution(12345);
     cout << "gap: " << gap << endl;
 	return 0;
 }
